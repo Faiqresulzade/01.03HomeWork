@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\bin\Debug\net6.0\ArrayTask1.exe
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\bin\Debug\net6.0\ArrayTask1.deps.json
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\bin\Debug\net6.0\ArrayTask1.runtimeconfig.json
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\bin\Debug\net6.0\ArrayTask1.dll
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\bin\Debug\net6.0\ArrayTask1.pdb
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.AssemblyInfo.cs
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.dll
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\refint\ArrayTask1.dll
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.pdb
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ArrayTask1.genruntimeconfig.cache
+C:\Users\Honor\Desktop\01.03HomeWork\ArrayTask1\ArrayTask1\obj\Debug\net6.0\ref\ArrayTask1.dll
